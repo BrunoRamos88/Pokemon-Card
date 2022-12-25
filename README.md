@@ -1,3 +1,3 @@
 # Pokemon-Card
 
-https://brunoramos88.github.io/Pokemon-Card/
+Projeto web responsivo utilizando HTML, CSS e JavaScript
